@@ -5,7 +5,7 @@
 
 
 import requests
-url = "https://los.rubiya.kr/chall/xavis_04f071ecdadb4296361d2101e4a2c390.php"
+url = "https://los.rubiya.kr/chall/orc_60e5b360f95c1f9688e4f3a86c5dd494.php"
 # cookie = "o390n0a72vrspg30ujnemh0bnf"
 # candidates = [chr(i) for i in range(48, 48+10)] + \
 #     [chr(i) for i in range(97, 97+26)] + \
